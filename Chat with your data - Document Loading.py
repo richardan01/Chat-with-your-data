@@ -3,7 +3,6 @@
 
 # # Document Loading
 
-# ## Note to students.
 # During periods of high load you may find the notebook unresponsive. It may appear to execute a cell, update the completion number in brackets [#] at the left of the cell but you may find the cell has not executed. This is particularly obvious on print statements when there is no output. If this happens, restart the kernel using the command under the Kernel tab.
 
 # ## Retrieval augmented generation
